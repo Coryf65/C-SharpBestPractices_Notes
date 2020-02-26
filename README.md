@@ -1,5 +1,5 @@
 # C# Best Practices for Developers
-[Linkedin] (https://www.linkedin.com/learning/c-sharp-best-practices-for-developers/what-you-should-know-before-watching)
+[Linkedin](https://www.linkedin.com/learning/c-sharp-best-practices-for-developers/what-you-should-know-before-watching)
 
 
 ### What are Best Practices
