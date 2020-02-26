@@ -44,6 +44,15 @@
   
   * Avoid as a random bucket
 
+### Singletons
+
+  * Use when you only need one instance
+  * Use when you need to create 'child objects'
+  * Use to Support OOP features
+  
+  * Avoid if you won't leverage any of the aforementioned features
+
+
 
 #### Test Driven Development Notes
 
