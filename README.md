@@ -53,6 +53,16 @@
   
   * Avoid if you won't leverage any of the aforementioned features
 
+### Method Overloading
+
+  * Include comments for the methd and parameters (xml for intellisense)
+  * Use few Parameters
+  * Order the parameters consistently
+  
+  * Avoid overloads with the same name but different purpose, and duplicate Code
+  
+
+
 
 
 #### Test Driven Development Notes
