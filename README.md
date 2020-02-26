@@ -89,7 +89,12 @@
   * any data type
   * optionally static
 
-###
+### Property
+*flexible mechanism that allows you to, Read, Write Compute it's value on a Private Field* 
+
+  * Lazy-Loading
+  * Validate incoming values
+  
 
 #### Test Driven Development Notes
 
