@@ -4,6 +4,9 @@
 
 ## What are Best Practices
 
+* D.R.Y
+* K.I.S.S
+
 ### Naming and Handling Classes
   - Namespace : Company.ProgramLayer
 * Class Naming
@@ -61,9 +64,26 @@
   
   * Avoid overloads with the same name but different purpose, and duplicate Code
   
+### Method chaining
+*when one method calls another method to get most of the work done*
+  
+  * Implement to reduce repeated code
+  
+  * Avoid if it's overkill and will overcomplicate things
 
+### Constants vs. Read-only fields
 
-
+  #### Constants
+  * Compile-time constant
+  * assigned on declaration
+  * only number, boolean or string
+  * Always Static
+  
+  #### Read-Only
+  * Runtime constant
+  * assigned on declaration or constructor
+  * any data type
+  * optionally static
 
 #### Test Driven Development Notes
 
