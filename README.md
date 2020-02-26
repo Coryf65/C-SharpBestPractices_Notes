@@ -4,7 +4,7 @@
 
 ## What are Best Practices
 
-* Naming and Handling Classes
+### Naming and Handling Classes
   - Namespace : Company.ProgramLayer
 * Class Naming
   - Classes = PascalCase, Nouns
@@ -18,4 +18,11 @@
   
 ### Constructors
 *(method of a class that gets created on intialization)*
+  
+  * 
 
+#### Test Driven Development Notes
+
+1. Arrange
+2. Act
+3. Assert
