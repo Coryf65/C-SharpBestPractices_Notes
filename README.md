@@ -17,5 +17,5 @@
   -Prefixes, Underscores, abbreviations
   
 ### Constructors
-*(method of a class that gets created on intialization)
+*(method of a class that gets created on intialization)*
 
