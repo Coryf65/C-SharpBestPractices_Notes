@@ -29,7 +29,7 @@
 *organizes classes in a heirarchy*
 
   * Follow Format: 
-      - '<Comany>.<Technology>.<Feature>'
+      - [Comany].[Technology].[Feature]
       - *example Microsoft.Media.Design*
   * PascalCasing
   * use the import/using instead of calling directly to a function
