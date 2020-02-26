@@ -25,6 +25,20 @@
   
   * Avoid - Don't make them do too much work, Simple is key
 
+### Namespaces
+*organizes classes in a heirarchy*
+
+  * Follow Format: <Comany>.<Technology>.<Feature>
+    *example Microsoft.Media.Design*
+  
+  * use the import/using instead of calling directly to a function
+  
+  * Avoid naming the Namespace the same as the class
+
+
+
+
+
 #### Test Driven Development Notes
 
 1. Arrange
