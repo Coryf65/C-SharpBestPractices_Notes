@@ -15,6 +15,8 @@
   - Methods = PascalCase, Verbs  
   - Fields = camelCase, Private
   - Properties = PascalCase, at start
+  - Constants = PascalCase
+  - Vars = camelCase
 * Access Modifiers
   - Keeps all in Private, unless you are desinging otherwise
 * Avoid 
@@ -74,16 +76,20 @@
 ### Constants vs. Read-only fields
 
   #### Constants
+  * PascalCasing
   * Compile-time constant
   * assigned on declaration
   * only number, boolean or string
   * Always Static
   
   #### Read-Only
+  * PascalCasing
   * Runtime constant
   * assigned on declaration or constructor
   * any data type
   * optionally static
+
+###
 
 #### Test Driven Development Notes
 
