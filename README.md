@@ -28,19 +28,22 @@
 ### Namespaces
 *organizes classes in a heirarchy*
 
-  * Follow Format: <Comany>.<Technology>.<Feature>
-    *example Microsoft.Media.Design*
-  
+  * Follow Format: 
+      - <Comany>.<Technology>.<Feature>
+      - *example Microsoft.Media.Design*
+  * PascalCasing
   * use the import/using instead of calling directly to a function
   
   * Avoid naming the Namespace the same as the class
 
+### Staic Classes
+*a static class cannot be instantiated, good for services (logging, notifications)*
 
-
+  * 
 
 
 #### Test Driven Development Notes
 
-1. Arrange
-2. Act
-3. Assert
+1. Arrange (create the test expectations)
+2. Act     (run the desired test / method)
+3. Assert  (Run the test against the expected and the actual)
