@@ -19,7 +19,11 @@
 ### Constructors
 *(method of a class that gets created on intialization)*
   
-  * 
+  * Provide a Default Constructor
+  * Consider paramaterized constructors
+  * Name the parameters the same as related properties
+  
+  * Avoid - Don't make them do too much work, Simple is key
 
 #### Test Driven Development Notes
 
