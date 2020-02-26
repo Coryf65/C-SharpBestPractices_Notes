@@ -94,6 +94,11 @@
 
   * Lazy-Loading
   * Validate incoming values
+  * Use Relevant Names
+  * use 'getter' for simple protection, formatting and initilalizing
+  * use 'setter' for simple protection, formatting and validation
+  
+  * Avoid abbreviation, complex logic
   
 
 #### Test Driven Development Notes
