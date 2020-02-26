@@ -39,7 +39,10 @@
 ### Staic Classes
 *a static class cannot be instantiated, good for services (logging, notifications)*
 
-  * 
+  * Use sparingly
+  * use for common utilites
+  
+  * Avoid as a random bucket
 
 
 #### Test Driven Development Notes
