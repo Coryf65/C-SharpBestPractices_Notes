@@ -100,6 +100,9 @@
   
   * Avoid abbreviation, complex logic
   
+## Managing Objects Effciently
+
+  
 
 #### Test Driven Development Notes
 
