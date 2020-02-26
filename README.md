@@ -8,7 +8,8 @@
   - Namespace : Company.ProgramLayer
 * Class Naming
   - Classes = PascalCase, Nouns
-  - Methods = PascalCase, Verbs
+  - Constuctors
+  - Methods = PascalCase, Verbs  
   - Fields = camelCase, Private
   - Properties = PascalCase, at start
 * Access Modifiers
