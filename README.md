@@ -1,7 +1,6 @@
 # C# Best Practices for Developers
 [Linkedin](https://www.linkedin.com/learning/c-sharp-best-practices-for-developers/what-you-should-know-before-watching)
 
-more Resources
 [w3 Schools](https://www.w3schools.com/)
 
 [Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/)
