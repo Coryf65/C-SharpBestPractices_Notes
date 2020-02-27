@@ -6,6 +6,8 @@
 
 * D.R.Y
 * K.I.S.S
+* Always, Always check for Null
+* when possible use a USING() statement
 
 ### Naming and Handling Classes
   - Namespace : Company.ProgramLayer
@@ -100,10 +102,6 @@
   
   * Avoid abbreviation, complex logic
   
-## Managing Objects Effciently
-
-  
-
 #### Test Driven Development Notes
 
 1. Arrange (create the test expectations)
