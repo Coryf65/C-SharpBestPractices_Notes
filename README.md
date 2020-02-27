@@ -3,8 +3,11 @@
 
 more Resources
 [w3 Schools](https://www.w3schools.com/)
+
 [Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
 [Stack Overflow](https://stackoverflow.com/)
+
 
 ## What are Best Practices
 
